@@ -1,0 +1,23 @@
+Nettoyer les espaces et les min/maj en trop dans les titres
+Découper la date pour ne garder que l'année
+Supprimer les doublons
+
+id,titre,date_publication,genre_id,prix,editeur,pays_origine
+1,  Les étOIles nouvelles,2022-02-22,1,18.99,Fiction&Co,France
+2,Mystère en Provence  ,2019-02-22,3,14.50,SudPolis,France
+3, L'amour en fleur  ,2020-02-22,2,12.80,RomancePlus,Canada
+3090,PenSEr le monde ,2025-02-22,203,22.60,EssaisModernes,Belgique
+4,  LE drAgon d'argent,2018-02-22,4,16.90,FantasyWorld,Royaume-Uni
+5, L'économie pour tous,2024-02-22,7,19.99,Le Savoir Global,France
+3068,  Vers et rimes,2023-02-22,202,11.45,PoésieLibre,Maroc
+2,Mystère en Provence  ,2019-02-22,3,14.50,SudPolis,France
+3068,  VERs et rimes,2023-02-22,202,11.45,PoésieLibre,Maroc
+50,Secrets Biologiques  ,2023-02-22,5,21.30,BioLit,Allemagne
+3012,Dans l'OMbre du passé ,2024-02-22,201,16.10,TensionNordic,Suisse
+3068,  Vers et rimes,2023-02-22,202,11.45,PoésieLibre,Maroc
+3090,Penser le monde ,2025-02-22,203,22.60,EssaisModernes,Belgique
+3057, Cap sur l'inconnu,2022-02-22,204,17.90,AventureBoox,Canada
+3024, L'inTrus,2025-02-22,201,20.20,TensionNordic,Suisse
+3068,  VerS et rimes,2023-02-22,202,11.45,PoésieLibre,Maroc
+50,Secrets biologiques  ,2023-02-22,5,21.30,BioLit,Allemagne
+3012,Dans l'ombre du passé ,2024-02-22,201,16.10,TensionNordic,Suisse

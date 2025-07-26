@@ -1,0 +1,23 @@
+Nettoyer les espaces en trop dans les noms et email, nettoyer les maj/min dans les noms
+Il faut rassembler les dates pour avoir une colonne date_inscription
+Il faut séparer le nom et le prénom
+Des doublons se sont glissé dans les données
+
+id,nom_complet,email,abonnement_newsletter,score_fidelite,annee_inscription,mois_inscription,jour_inscription
+1,  Alice MARTIN ,alice.martin1@email.com,oui,87,2024,01,15
+2,  Luc Bernard,luc.bernard@email.com ,non,65,2024,03,24
+2,Luc Bernard  , luc.bernard@email.com,,65,2024,03,24
+3,Marie PetIT ,marie.petit@email.com,,,2024,05,09
+4,  ThieRry Lefevre, thierry.lefevre@email.com  ,oui,78,2023,12,30
+2178, KEvin Nguyen,  kevin.nguyen49@email.com,oui,75,2024,07,16
+5,Sophie Moreau ,sophie.moreau@email.com,non,91,2022,10,05
+2130,PAULA Sanchez  , paula.sanchez44@email.com,oui,,2025,02,21
+6,Eric Dubois  ,eric.dubois@email.com,non,69,2024,,05
+30, Audrey Fontaine,audrey.fontaine@email.com,oui,95,2022,01,22
+2057,  ClémEnt Giraud,clement.giraud37@email.com,,48,2025,05,17
+2141, Zoé Leclerc, zoe.leclerc91@email.com,oui,73,2024,11,02
+5,Sophie Moreau,     sophie.moreau@email.com,non,,2022,10,05
+6,Eric Dubois  ,eric.dubois@email.com    ,,69,2024,03,05
+2096, Samuel Meyer,samuel.meyer18@email.com   ,non,68,2023,09,13
+2130,Paula Sanchez,paula.sanchez44@email.com,oui,56,2025,02,21
+2178,Kevin Nguyen,kevin.nguyen49@email.com,oui,75,2024,07,16

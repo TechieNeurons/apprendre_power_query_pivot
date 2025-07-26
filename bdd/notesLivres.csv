@@ -1,0 +1,15 @@
+id,utilisateur_id,livre_id,note,commentaire,date_note
+1,1,1,5,Fascinant !,2024-01-25
+2,3,2,4,Bon policier,2024-07-15
+3,5,4,3,Intéressant mais complexe,2023-10-10
+201,2178,3090,5,Passionnant et novateur !,2025-07-14
+202,2130,3057,4,Beau récit d'aventure,2025-03-29
+203,2096,3068,3,Poèmes originaux,2024-12-18
+204,2141,3024,2,Déçu par la fin,2025-01-12
+4,1,1,5,Fascinant !,2024-01-25
+5,2130,2,4,Bon policier,2024-07-15
+6,30,4,3,Intéressant mais complexe,2023-10-10
+7,2178,1,5,Passionnant et novateur !,2025-07-14
+8,30,3057,4,Beau récit d'aventure,2025-03-29
+9,2096,3,3,Poèmes originaux,2024-12-18
+10,2141,1,2,Déçu par la fin,2025-01-12
